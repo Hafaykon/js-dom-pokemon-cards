@@ -57,6 +57,7 @@ h2 {
   padding: 1rem;
 
   border-radius: 5px;
+  
 }
 
 .card--img {
@@ -64,4 +65,8 @@ h2 {
   margin: 0 auto;
 
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+}
+
+ul {
+  list-style-type: none;
 }
